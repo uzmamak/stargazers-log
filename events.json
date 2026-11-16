@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React framework for production.",
+    "starredAt": "2025-02-14"
+  },
+  {
+    "repository": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "starredAt": "2025-01-28"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "starredAt": "2024-12-09"
+  }
+]
